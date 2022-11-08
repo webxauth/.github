@@ -1,3 +1,4 @@
+\
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webXauth/.github/main/profile/webxauth_light.svg" width="120">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webXauth/.github/main/profile/webxauth_dark.svg" width="120">
@@ -19,3 +20,13 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 📱 React Native
 ---
 - [webxauth-ui-react-native](https://github.com/webXauth/webXauth-ui-react-native)
+
+👁️ Maintainer
+---
+Developed and maintained by the folks at [Bonuz](https://github.com/bonuz-market).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_light.svg" width="120">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg" width="120">
+  <img alt="webxauth logo" src="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg">
+</picture>
