@@ -21,6 +21,10 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [webxauth-ui-react-native](https://github.com/webXauth/webXauth-ui-react-native)
 
+💡 Misc
+---
+- [Website](https://github.com/webXauth/website)
+
 👁️ Maintainer
 ---
 Developed and maintained by the folks at [Bonuz](https://github.com/bonuz-market).
