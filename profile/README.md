@@ -1,8 +1,7 @@
-\
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webXauth/.github/main/profile/webxauth_light.svg" width="120">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webXauth/.github/main/profile/webxauth_dark.svg" width="120">
-  <img alt="webxauth logo" src="./webxauth.png">
+  <img alt="webxauth logo" src="https://raw.githubusercontent.com/webXauth/.github/main/profile/webxauth.png">
 </picture>
 
 For a better overview of our projects see the following list.\
