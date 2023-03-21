@@ -11,10 +11,16 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [webxauth-web](https://github.com/webXauth/webxauth-web)
 
+📜 TypeScript
+---
+- [webxauth-types](https://github.com/webxauth/webxauth-types)
+
 ⚛️ React
 ---
 - [webxauth-ui](https://github.com/webXauth/webxauth-ui)
 - [webxauth-ui-demo](https://github.com/webXauth/webxauth-ui-demo)
+- [useWalletAuth](https://github.com/webXauth/useWalletAuth)
+- [useWalletAuth-example](https://github.com/webXauth/useWalletAuth-example)
 
 📱 React Native
 ---
